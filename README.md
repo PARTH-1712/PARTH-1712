@@ -1,5 +1,6 @@
-# 💫 About Me:
-🌱A passionate Full Stack developer from India loves to learn and work.<br><br>🔭 I’m currently developing problem-solving skills.<br><br>🎯 I’m currently learning Full Stack Development.<br><br>📫 How to reach me sharma.parth1217@gmail.com<br><br>⚡ Fun fact: Coding has over 700 languages.
+<h1 align="center">Hi 👋, I'm Parth Sharma</h1>
+<h3 align="center">🌱A passionate Full Stack developer from India loves to learn and work.</h3>
+<br><br>🔭 I’m currently developing problem-solving skills.<br><br>🎯 I’m currently learning Full Stack Development.<br><br>📫 How to reach me sharma.parth1217@gmail.com<br><br>⚡ Fun fact: Coding has over 700 languages.
 
 
 ## 🌐 Socials:
